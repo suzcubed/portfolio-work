@@ -26,7 +26,7 @@ Welcome to my portfolio.
 - Visualized character-novel relationships using pyvis 
 - Refined pyvis-generated HTML to improve filtering and readability
 
-🔗 Repo: [link](https://github.com/suzcubed/balzacnetwork/tree/main) · 🔗 Outputs Preview: [link](https://suzcubed.github.io/balzacnetwork/balzac_character_network_with_filters.html/)
+🔗 Repo: [link](https://github.com/suzcubed/balzacnetwork/tree/main) · 🔗 Outputs Preview: [link](https://suzcubed.github.io/balzacnetwork/balzac_character_network_with_filters.html)
 
 ## Skills & Methods
 
