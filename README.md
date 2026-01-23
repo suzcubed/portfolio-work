@@ -1,7 +1,8 @@
 
 ## Portfolio 
 Welcome to my portfolio. 
-Text encoding | digital scholarly workflows | Python-driven data organization & analysis
+
+|Text encoding | digital scholarly workflows | Python-driven data organization & analysis
 
 
 ## Projects Overview
