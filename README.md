@@ -1,8 +1,6 @@
 
 ## Portfolio 
-Welcome to my portfolio. 
-
-|Text encoding | digital scholarly workflows | Python-driven data organization & analysis
+Welcome to my MLIS project portfolio. 
 
 
 ## Projects Overview
