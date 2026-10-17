@@ -14,7 +14,7 @@ Welcome to my MLIS project portfolio.
 
 | Project | Focus | Tools | Output |
 |---------|-------|-------|--------|
-| [**Culver City Historical Society Archive Audit**] (https://github.com/suzcubed/cchs_archive_audit/tree/main) | Data cleaning, taxonomy design, catalog auditing | OpenRefine, Python, Excel/GoogleSheets | Controlled Vocabulary + Cleaned archival database |
+| [**Culver City Historical Society Archive Audit**](https://github.com/suzcubed/cchs_archive_audit/tree/main) | Data cleaning, taxonomy design, catalog auditing | OpenRefine, Python, Excel/GoogleSheets | Controlled Vocabulary + Cleaned archival database |
 
 ## Project Summaries
 
