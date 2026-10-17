@@ -10,6 +10,11 @@ Welcome to my MLIS project portfolio.
 | [**Romantic Poems TEI Project**](https://github.com/suzcubed/romantic_poets_project/blob/main/README.md) | TEI encoding, HTML transformation, metadata extraction | TEI/XML, XSLT, Python, lxml, pandas | Reproducible Jupyter Notebooks + TEI encoded texts + HTML outputs + metadata CSV |
 | [**Balzac Character Network Map**](https://github.com/suzcubed/balzacnetwork/blob/main/README.md) | Entity extraction, relational visualization | Python, pandas, pyvis, HTML | Character network interactive visualization + CSV of character frequencies|
 
+## Applied Work 
+
+| Project | Focus | Tools | Output |
+| [**Culver City Historical Society Archive Audit**] (https://github.com/suzcubed/cchs_archive_audit/tree/main) | Data cleaning, taxonomy design, catalog auditing | OpenRefine, Python, Excel/GoogleSheets | Controlled Vocabulary + Cleaned archival database |
+
 ## Project Summaries
 
 **Romantic Poems TEI Project**
@@ -32,7 +37,7 @@ Welcome to my MLIS project portfolio.
 - TEI/XML, XSLT, HTML
 
 **Data Processing & Analysis**  
-- Python (pandas, lxml), XPath, text cleaning
+- Python (pandas, lxml), XPath, text cleaning, OpenRefine
 
 **Research & Workflows**  
 - Metadata organization & design, archival metadata standardization
