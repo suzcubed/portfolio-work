@@ -18,6 +18,11 @@ Welcome to my MLIS project portfolio.
 
 ## Project Summaries
 
+**Culver City Historical Society Archive Audit**
+- Audited archival database using OpenRefine
+- Designed and implemented object type taxonomy with archival team
+- Implemented subject tagging in archival database
+
 **Romantic Poems TEI Project**
 - Encoded Romantic-era poems following Whitman Archive TEI guidelines
 - Transformed TEI (XML) into HTML via XSLT with Python batch workflows
