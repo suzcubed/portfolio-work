@@ -23,6 +23,8 @@ Welcome to my MLIS project portfolio.
 - Designed and implemented object type taxonomy with archival team
 - Implemented subject tagging in archival database
 
+🔗 Repo: [link](https://github.com/suzcubed/cchs_archive_audit/tree/main) · 🔗 Outputs Preview: [link](https://github.com/suzcubed/cchs_archive_audit/blob/main/CCHS_Audit_Case_Study.pdf)
+
 **Romantic Poems TEI Project**
 - Encoded Romantic-era poems following Whitman Archive TEI guidelines
 - Transformed TEI (XML) into HTML via XSLT with Python batch workflows
